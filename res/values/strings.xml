@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BackTalk</string>
+    <string name="profiles">Profiles</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mainactivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="register_receiver">Register receiver</string>
+    <string name="edit_number">Enter a number</string>
+    <string name="button_sms_send">Send SMS</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="radiobutton_test">TEST 7.5</string>
+
+</resources>
